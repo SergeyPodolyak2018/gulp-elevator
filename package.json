@@ -1,0 +1,26 @@
+{
+  "name": "gulp-elevator",
+  "version": "1.0.0",
+  "description": "To convert svg",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyPodolyak2018/gulp-elevator.git"
+  },
+  "author": "SergeyPodolyak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyPodolyak2018/gulp-elevator/issues"
+  },
+  "homepage": "https://github.com/SergeyPodolyak2018/gulp-elevator#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
